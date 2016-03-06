@@ -1,0 +1,11 @@
+Para nada cierto
+Un poco cierto
+Mas o menos cierto
+Muy cierto
+
+31 - 37
+Para nada
+Muy poco
+Algo
+Mucho
+Extremadamente
